@@ -6,3 +6,17 @@
 	position: relative;
 	left: 515px;
 }
+
+.breadcrumb {
+
+	padding: 10px 0 !important;
+
+	
+	margin-bottom: 0 !important;
+}
+.home1{
+	margin-left: 5px;
+}
+.home2{
+	margin-left: 5px;
+}
